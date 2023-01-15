@@ -1,0 +1,1 @@
+this is chapter 3 .  i knew new command to open txt file ,  notepad in huper then add file to open; eg-- notepad chapter3.txt
